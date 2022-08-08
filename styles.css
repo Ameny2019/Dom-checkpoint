@@ -1,0 +1,21 @@
+
+
+.gradient-custom {
+    /* fallback for old browsers */
+    
+    
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: rgb(195,34,189);
+    background: linear-gradient(288deg, rgba(195,34,189,0.6141807064622724) 0%, rgba(97,2,66,1) 20%, rgba(207,70,145,1) 70%, rgba(221,101,126,1) 88%);            
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: rgb(195,34,189);
+    background: linear-gradient(288deg, rgba(195,34,189,0.6141807064622724) 0%, rgba(97,2,66,1) 20%, rgba(207,70,145,1) 70%, rgba(221,101,126,1) 88%);            }
+
+    a{
+        color:white;
+        border-color: white;
+        border: 10px;
+        font-size: x-large;
+        text-decoration: none;
+        padding-top: 100px;
+    }
